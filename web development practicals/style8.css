@@ -1,0 +1,26 @@
+#RED{
+        color: red;
+        background-color: yellow;
+    }
+    .GREEN{
+        color: green;
+        font-size: 25px;
+    }
+    
+    .container{
+        color: blue;
+        font-size: 30px;
+    }
+    .container div p{
+        color: red;
+        font-style: italic;
+    }
+    p[GROUP="DIV2"]{
+        color: purple;
+        font-size: 35px;
+    }
+    *BODY1{
+        background-color: lightblue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding: 20px;
+    }
